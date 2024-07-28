@@ -1,0 +1,2 @@
+# config
+openclash rules config
